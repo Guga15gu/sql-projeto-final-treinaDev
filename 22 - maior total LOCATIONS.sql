@@ -1,0 +1,2 @@
+-- SQLite
+SELECT *,  MAX(TOTAL) AS 'Maior Total' FROM LOCATIONS;
